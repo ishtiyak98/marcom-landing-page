@@ -1,5 +1,4 @@
 import React from "react";
-import BgImg from "../assets/background-marcom-image.png";
 import { GiArcheryTarget } from "react-icons/gi";
 import { AiOutlinePieChart } from "react-icons/ai";
 import { AiOutlineBulb } from "react-icons/ai";
