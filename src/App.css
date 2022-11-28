@@ -3,3 +3,8 @@
 .montserrat-font{
   font-family: 'Montserrat', sans-serif;
 }
+
+.background_img{
+  background-image: url("./assets/background-marcom-image.png"), linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+  background-blend-mode: overlay;
+}
